@@ -7,9 +7,9 @@ import os # Para manipulação de caminhos de arquivo
 # Certifique-se que este caminho está correto ou que o XML está no mesmo diretório
 # Use o caminho absoluto que você mencionou se necessário.
 # xml_file_path = '/media/peixoto/stuff/stj_juris_prud/pesquisa_pronta_stj.xml'
-xml_file_path = 'pesquisa_pronta_stj.xml' # Assume que está no mesmo diretório
+xml_file_path = 'data/input/pesquisa_pronta_stj.xml' # Assume que está no mesmo diretório
 
-output_csv_path = 'stj_pesquisa_pronta.csv'
+output_csv_path = 'data/output/stj_pesquisa_pronta.csv'
 output_parquet_path = 'stj_pesquisa_pronta.parquet'
 
 # --- Verificação do Arquivo ---
