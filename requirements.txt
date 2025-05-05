@@ -1,0 +1,7 @@
+pandas
+lxml
+beautifulsoup4
+# Adicione a biblioteca parquet que você instalou:
+pyarrow
+# ou
+# fastparquet
