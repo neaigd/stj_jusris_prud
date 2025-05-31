@@ -1,32 +1,202 @@
 [
-  {
-    "id_pesquisa": "PP1",
-    "titulo": "DIREITO PROCESSUAL CIVIL – RECURSOS (ART. 496 AO 565 DO CPC). Remessa Necessária. Cabimento. Sentença ilíquida proferida contra o INSS.",
-    "area_direito": "DIREITO PROCESSUAL CIVIL",
-    "sub_area": "RECURSOS (ART. 496 AO 565 DO CPC)",
-    "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?docementocompesquisa=sim&amp;livre=@COD=%27000009120%27&amp;b=TESM",
-    "link_toc": "https://scon.stj.jus.br/SCON/jurisprudencia/doc.jsp?livre=@COD=%27000009120%27&b=TESM&p=true",
-    "data_atualizacao": "2024-05-10T10:00:00Z",
-    "data_atualizacao_str": "2024-05-10T10:00:00Z"
-  },
-  {
-    "id_pesquisa": "PP2",
-    "titulo": "DIREITO PREVIDENCIÁRIO – TRABALHADOR RURAL. Segurado especial. Comprovação de atividade rural. Início de prova material.",
-    "area_direito": "DIREITO PREVIDENCIÁRIO",
-    "sub_area": "TRABALHADOR RURAL",
-    "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?docementocompesquisa=sim&amp;livre=@COD=%27000009142%27&amp;b=TESM",
-    "link_toc": "https://scon.stj.jus.br/SCON/jurisprudencia/doc.jsp?livre=@COD=%27000009142%27&b=TESM&p=true",
-    "data_atualizacao": "2024-05-08T14:30:00Z",
-    "data_atualizacao_str": "2024-05-08T14:30:00Z"
-  },
-  {
-    "id_pesquisa": "PP3",
-    "titulo": "DIREITO PENAL – DOSIMETRIA DA PENA. Terceira fase. Majorantes e minorantes. Concurso.",
-    "area_direito": "DIREITO PENAL",
-    "sub_area": "DOSIMETRIA DA PENA",
-    "link_acordaos": null,
-    "link_toc": "https://scon.stj.jus.br/SCON/jurisprudencia/doc.jsp?livre=@COD=%27000009090%27&b=TESM&p=true",
-    "data_atualizacao": "2024-05-05T09:00:00Z",
-    "data_atualizacao_str": "2024-05-05T09:00:00Z"
-  }
+    {
+        "id_pesquisa": "000009120",
+        "titulo": "Verificação da validade da assinatura digital em contratos e documentos\neletrônicos.",
+        "area_direito": "DIREITO CIVIL",
+        "sub_area": "Contratos",
+        "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&O=RR&preConsultaPP=000009120/0",
+        "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000009120'",
+        "data_atualizacao": "2025-04-28 00:00:00",
+        "data_atualizacao_str": "2025-04-28T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": "000009142",
+        "titulo": "Denunciação da lide. Pretensão de reconhecimento de culpa de terceiro pelo\nevento danoso.",
+        "area_direito": "DIREITO PROCESSUAL CIVIL",
+        "sub_area": "INTERVENÇÃO DE TERCEIROS",
+        "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&O=RR&preConsultaPP=000009142/0",
+        "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000009142'",
+        "data_atualizacao": "2025-04-28 00:00:00",
+        "data_atualizacao_str": "2025-04-28T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": "000009090",
+        "titulo": "Discussão sobre a legitimidade passiva. Fundo Nacional de Desenvolvimento da\nEducação -FNDE, enquanto gestor do Fundo de Financiamento ao Estudante do Ensino\nSuperior - FIES e operador do Sistema Informatizado do FIES - SisFIES.",
+        "area_direito": "DIREITO ADMINISTRATIVO",
+        "sub_area": "EDUCAÇÃO",
+        "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&O=RR&preConsultaPP=000009090/0",
+        "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000009090'",
+        "data_atualizacao": "2025-04-22 00:00:00",
+        "data_atualizacao_str": "2025-04-22T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": "000009124",
+        "titulo": "Discussão sobre o dano moral em razão da fraude na contratação de empréstimo.",
+        "area_direito": "DIREITO BANCÁRIO",
+        "sub_area": "RESPONSABILIDADE CIVIL",
+        "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&O=RR&preConsultaPP=000009124/0",
+        "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000009124'",
+        "data_atualizacao": "2025-04-22 00:00:00",
+        "data_atualizacao_str": "2025-04-22T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": "000009082",
+        "titulo": "Remoção de inventariante, com a substituição por outro, dativo, em decorrência\nda animosidade entre as partes.",
+        "area_direito": "DIREITO CIVIL",
+        "sub_area": "SUCESSÕES",
+        "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&O=RR&preConsultaPP=000009082/0",
+        "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000009082'",
+        "data_atualizacao": "2025-04-14 00:00:00",
+        "data_atualizacao_str": "2025-04-14T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": "000009084",
+        "titulo": "Aplicação da Lei da Alienação Fiduciária de Imóveis - Lei nº 9.514/1997 - na\nresolução do contrato por inadimplência da incorporadora.",
+        "area_direito": "DIREITO CIVIL",
+        "sub_area": "ALIENAÇÃO FIDUCIÁRIA",
+        "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&O=RR&preConsultaPP=000009084/0",
+        "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000009084'",
+        "data_atualizacao": "2025-04-14 00:00:00",
+        "data_atualizacao_str": "2025-04-14T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": "000009050",
+        "titulo": "Prejudicialidade entre ações possessórias e de usucapião sobre o mesmo imóvel.",
+        "area_direito": "DIREITO CIVIL",
+        "sub_area": "USUCAPIAO",
+        "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&O=RR&preConsultaPP=000009050/0",
+        "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000009050'",
+        "data_atualizacao": "2025-04-07 00:00:00",
+        "data_atualizacao_str": "2025-04-07T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": "000009061",
+        "titulo": "Conceito de Jurisprudência Dominante.",
+        "area_direito": "DIREITO PROCESSUAL CIVIL",
+        "sub_area": "Processo nos Tribunais",
+        "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&O=RR&preConsultaPP=000009061/0",
+        "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000009061'",
+        "data_atualizacao": "2025-04-07 00:00:00",
+        "data_atualizacao_str": "2025-04-07T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": "000009018",
+        "titulo": "Competência para o julgamento da ação de despejo proposta contra empresa em\nrecuperação judicial.",
+        "area_direito": "DIREITO EMPRESARIAL",
+        "sub_area": "FALÊNCIA E RECUPERAÇÃO JUDICIAL",
+        "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&O=RR&preConsultaPP=000009018/0",
+        "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000009018'",
+        "data_atualizacao": "2025-03-24 00:00:00",
+        "data_atualizacao_str": "2025-03-24T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": "000009023",
+        "titulo": "Transmissão do crédito relativo à multa cominatória (astreintes) aos sucessores\ndo autor falecido no curso da ação.",
+        "area_direito": "DIREITO PROCESSUAL CIVIL",
+        "sub_area": "MULTA DIÁRIA (ASTREINTES)",
+        "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&O=RR&preConsultaPP=000009023/0",
+        "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000009023'",
+        "data_atualizacao": "2025-03-24 00:00:00",
+        "data_atualizacao_str": "2025-03-24T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": "000009031",
+        "titulo": "Contrato atípico de hospedagem em condomínio residencial.",
+        "area_direito": "DIREITO CIVIL",
+        "sub_area": "CONDOMÍNIO",
+        "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&O=RR&preConsultaPP=000009031/0",
+        "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000009031'",
+        "data_atualizacao": "2025-03-18 00:00:00",
+        "data_atualizacao_str": "2025-03-18T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": "000009069",
+        "titulo": "Homologação judicial de acordo de não persecução cível na ação de improbidade\nadministrativa.",
+        "area_direito": "DIREITO ADMINISTRATIVO",
+        "sub_area": "IMPROBIDADE ADMINISTRATIVA",
+        "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&O=RR&preConsultaPP=000009069/0",
+        "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000009069'",
+        "data_atualizacao": "2025-03-18 00:00:00",
+        "data_atualizacao_str": "2025-03-18T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": "000009009",
+        "titulo": "Pagamento de custas por meio de PIX sem a vinculação da Guia de Recolhimento da\nUnião - GRU.",
+        "area_direito": "DIREITO PROCESSUAL CIVIL",
+        "sub_area": "RECURSOS E OUTROS MEIOS DE IMPUGNAÇÃO",
+        "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&O=RR&preConsultaPP=000009009/0",
+        "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000009009'",
+        "data_atualizacao": "2025-03-10 00:00:00",
+        "data_atualizacao_str": "2025-03-10T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": "000009015",
+        "titulo": "Oitiva prévia da vítima em caso de revogação de medida protetiva.",
+        "area_direito": "DIREITO PENAL",
+        "sub_area": "VIOLÊNCIA DOMÉSTICA",
+        "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&O=RR&preConsultaPP=000009015/0",
+        "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000009015'",
+        "data_atualizacao": "2025-03-10 00:00:00",
+        "data_atualizacao_str": "2025-03-10T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": "000008996",
+        "titulo": "Interpretação do conceito de proveito econômico para fins de fixação de\nhonorários advocatícios.",
+        "area_direito": "DIREITO PROCESSUAL CIVIL",
+        "sub_area": "HONORÁRIOS ADVOCATÍCIOS",
+        "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&O=RR&preConsultaPP=000008996/0",
+        "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000008996'",
+        "data_atualizacao": "2025-03-05 00:00:00",
+        "data_atualizacao_str": "2025-03-05T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": "000008998",
+        "titulo": "Acordo de não persecução penal nos crimes de discriminação racial e de injúria\nqualificada.",
+        "area_direito": "DIREITO PROCESSUAL PENAL",
+        "sub_area": "AÇÃO PENAL",
+        "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&O=RR&preConsultaPP=000008998/0",
+        "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000008998'",
+        "data_atualizacao": "2025-03-05 00:00:00",
+        "data_atualizacao_str": "2025-03-05T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": "000007777",
+        "titulo": "Plano de saúde. Tratamento de transtorno do espectro autista - TEA. Recusa ou\nlimitação de cobertura. Rol da Agência Nacional de Saúde - ANS.",
+        "area_direito": "CASOS NOTÓRIOS",
+        "sub_area": "DIREITO DA PESSOA COM DEFICIÊNCIA",
+        "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&O=RR&preConsultaPP=000007777/3",
+        "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000007777'",
+        "data_atualizacao": "2025-03-02 00:00:00",
+        "data_atualizacao_str": "2025-03-02T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": "000008989",
+        "titulo": "Cobertura pelos planos de saúde para medicamentos fabricados à base de\nCanabidiol.",
+        "area_direito": "DIREITO CIVIL",
+        "sub_area": "CONTRATOS",
+        "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&O=RR&preConsultaPP=000008989/0",
+        "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000008989'",
+        "data_atualizacao": "2025-02-24 00:00:00",
+        "data_atualizacao_str": "2025-02-24T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": "000008994",
+        "titulo": "Executividade do contrato eletrônico.",
+        "area_direito": "DIREITO PROCESSUAL CIVIL",
+        "sub_area": "EXECUÇÃO",
+        "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&O=RR&preConsultaPP=000008994/0",
+        "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000008994'",
+        "data_atualizacao": "2025-02-24 00:00:00",
+        "data_atualizacao_str": "2025-02-24T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": "000008984",
+        "titulo": "Discussões relacionadas à remuneração devida ao testamenteiro nomeado,\nconhecida\ncomo \"vintena\".",
+        "area_direito": "DIREITO CIVIL",
+        "sub_area": "SUCESSÕES",
+        "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?b=ACOR&O=RR&preConsultaPP=000008984/0",
+        "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000008984'",
+        "data_atualizacao": "2025-02-17 00:00:00",
+        "data_atualizacao_str": "2025-02-17T00:00:00-03:00"
+    }
 ]
