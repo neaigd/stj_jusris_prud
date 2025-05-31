@@ -35,7 +35,7 @@ tags:
 
 # Relatório de Jurisprudência STJ
 
-Relatório gerado em: 31/05/2025 03:42:19
+Relatório gerado em: 31/05/2025 03:45:02
 
 Total de teses encontradas: 20
 
