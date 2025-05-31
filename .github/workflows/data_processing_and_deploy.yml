@@ -1,0 +1,81 @@
+name: Process Data and Deploy to GitHub Pages
+
+on:
+  schedule:
+    # Runs daily at 00:00 UTC
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main # Or your primary branch name
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allows the workflow to commit changes to the repo (for data files)
+      pages: write    # Allows the workflow to deploy to GitHub Pages
+      id-token: write # Required for trusted GitHub Pages deployments
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch all history so we can push changes back
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10' # Or your preferred Python version
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run data processing script (Update SQLite DB)
+        run: python src/processar_feed_stj.py
+
+      - name: Generate static JSON for frontend
+        run: python src/app.py --generate-json
+
+      - name: Generate Markdown report
+        run: python src/report_generator.py
+
+      - name: Commit and push data changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # Add all potentially changed data files.
+          # Use git add --force if .gitignore might be ignoring them (e.g. .db files)
+          # However, stj_jurisprudencia.db should ideally NOT be in .gitignore if we want to commit it.
+          git add data/stj_jurisprudencia.db data/output/jurisprudencia.json data/output/relatorio_jurisprudencia.md
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Automated data update: Process STJ feed and generate static files"
+            git push
+          fi
+        # Allow the workflow to continue even if there are no changes to push or if the push fails
+        # (e.g., due to concurrent pushes, though less likely with scheduled runs)
+        continue-on-error: true
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Upload the 'docs' directory for HTML/CSS/JS
+          # and 'data/output' for the JSON and MD report.
+          # The path should be structured such that docs/index.html can find
+          # data/output/jurisprudencia.json via ../data/output/jurisprudencia.json
+          # So, we create a temporary artifact structure.
+          path: |
+            ./docs
+            ./data/output
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

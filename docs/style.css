@@ -1,0 +1,151 @@
+body {
+    font-family: sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #1e1e1e;
+    padding: 1em;
+    text-align: center;
+    border-bottom: 1px solid #333;
+}
+
+header h1 {
+    margin: 0;
+    color: #ffffff;
+}
+
+main {
+    padding: 1em;
+}
+
+#search-section {
+    margin-bottom: 1.5em;
+    padding: 1em;
+    background-color: #1e1e1e;
+    border-radius: 8px;
+    display: flex;
+    gap: 0.5em;
+    align-items: center;
+}
+
+#search-section label {
+    font-size: 1em;
+    margin-right: 0.5em;
+}
+
+#search-input {
+    flex-grow: 1;
+    padding: 0.75em;
+    border: 1px solid #333;
+    border-radius: 4px;
+    background-color: #2c2c2c;
+    color: #e0e0e0;
+    font-size: 1em;
+}
+
+#search-input::placeholder {
+    color: #888;
+}
+
+#search-button {
+    padding: 0.75em 1.5em;
+    border: none;
+    border-radius: 4px;
+    background-color: #bb86fc; /* Roxo claro (mesma cor dos títulos dos itens) */
+    color: #121212;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#search-button:hover {
+    background-color: #a76ef4;
+}
+
+#download-report-button {
+    padding: 0.75em 1.5em;
+    border: none;
+    border-radius: 4px;
+    background-color: #03dac6; /* Ciano (mesma cor dos links dos itens) */
+    color: #121212; /* Preto para contraste com o ciano */
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-left: 0.5em; /* Adiciona um pequeno espaço entre os botões */
+}
+
+#download-report-button:hover {
+    background-color: #02bfae; /* Um tom de ciano mais escuro para hover */
+}
+
+#jurisprudencia-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1em;
+}
+
+.jurisprudencia-item {
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+    border-radius: 8px;
+    padding: 1em;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.jurisprudencia-item h2 {
+    font-size: 1.2em;
+    color: #bb86fc; /* Roxo claro para títulos */
+    margin-top: 0;
+}
+
+.jurisprudencia-item p {
+    margin-bottom: 0.5em;
+    font-size: 0.9em;
+}
+
+.jurisprudencia-item strong {
+    color: #cfcfcf;
+}
+
+.jurisprudencia-item a {
+    color: #03dac6; /* Ciano para links */
+    text-decoration: none;
+}
+
+.jurisprudencia-item a:hover {
+    text-decoration: underline;
+}
+
+.item-links {
+    margin-top: 1em;
+    display: flex;
+    gap: 1em;
+}
+
+.item-links a {
+    background-color: #333;
+    padding: 0.5em 0.8em;
+    border-radius: 4px;
+    font-size: 0.85em;
+    transition: background-color 0.3s ease;
+}
+
+.item-links a:hover {
+    background-color: #03dac6;
+    color: #121212;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    padding: 1em;
+    margin-top: 2em;
+    background-color: #1e1e1e;
+    border-top: 1px solid #333;
+    font-size: 0.9em;
+}

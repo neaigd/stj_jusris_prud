@@ -1,6 +1,8 @@
 pandas
 lxml
 beautifulsoup4
+requests
+Flask
 # Adicione a biblioteca parquet que você instalou:
 pyarrow
 # ou
