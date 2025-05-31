@@ -1,0 +1,32 @@
+[
+  {
+    "id_pesquisa": "PP1",
+    "titulo": "DIREITO PROCESSUAL CIVIL – RECURSOS (ART. 496 AO 565 DO CPC). Remessa Necessária. Cabimento. Sentença ilíquida proferida contra o INSS.",
+    "area_direito": "DIREITO PROCESSUAL CIVIL",
+    "sub_area": "RECURSOS (ART. 496 AO 565 DO CPC)",
+    "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?docementocompesquisa=sim&amp;livre=@COD=%27000009120%27&amp;b=TESM",
+    "link_toc": "https://scon.stj.jus.br/SCON/jurisprudencia/doc.jsp?livre=@COD=%27000009120%27&b=TESM&p=true",
+    "data_atualizacao": "2024-05-10T10:00:00Z",
+    "data_atualizacao_str": "2024-05-10T10:00:00Z"
+  },
+  {
+    "id_pesquisa": "PP2",
+    "titulo": "DIREITO PREVIDENCIÁRIO – TRABALHADOR RURAL. Segurado especial. Comprovação de atividade rural. Início de prova material.",
+    "area_direito": "DIREITO PREVIDENCIÁRIO",
+    "sub_area": "TRABALHADOR RURAL",
+    "link_acordaos": "https://scon.stj.jus.br/SCON/pesquisar.jsp?docementocompesquisa=sim&amp;livre=@COD=%27000009142%27&amp;b=TESM",
+    "link_toc": "https://scon.stj.jus.br/SCON/jurisprudencia/doc.jsp?livre=@COD=%27000009142%27&b=TESM&p=true",
+    "data_atualizacao": "2024-05-08T14:30:00Z",
+    "data_atualizacao_str": "2024-05-08T14:30:00Z"
+  },
+  {
+    "id_pesquisa": "PP3",
+    "titulo": "DIREITO PENAL – DOSIMETRIA DA PENA. Terceira fase. Majorantes e minorantes. Concurso.",
+    "area_direito": "DIREITO PENAL",
+    "sub_area": "DOSIMETRIA DA PENA",
+    "link_acordaos": null,
+    "link_toc": "https://scon.stj.jus.br/SCON/jurisprudencia/doc.jsp?livre=@COD=%27000009090%27&b=TESM&p=true",
+    "data_atualizacao": "2024-05-05T09:00:00Z",
+    "data_atualizacao_str": "2024-05-05T09:00:00Z"
+  }
+]
