@@ -1,6 +1,6 @@
 ---
 title: "Relatório de Jurisprudência STJ"
-date: "2025-10-08"
+date: "2025-10-09"
 tags:
   - alienação_fiduciária
   - ação_penal
@@ -35,7 +35,7 @@ tags:
 
 # Relatório de Jurisprudência STJ
 
-Relatório gerado em: 08/10/2025 01:20:07
+Relatório gerado em: 09/10/2025 01:20:58
 
 Total de teses encontradas: 20
 
