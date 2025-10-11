@@ -1,5 +1,115 @@
 [
     {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 268: DIREITO AUTORAL IV",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=268",
+        "data_atualizacao": "2025-10-10 00:00:00",
+        "data_atualizacao_str": "2025-10-10T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 267: DIREITO AUTORAL III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=267",
+        "data_atualizacao": "2025-09-26 00:00:00",
+        "data_atualizacao_str": "2025-09-26T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 266: DIREITO AUTORAL II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=266",
+        "data_atualizacao": "2025-09-12 00:00:00",
+        "data_atualizacao_str": "2025-09-12T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 265: DIREITO AUTORAL",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=265",
+        "data_atualizacao": "2025-08-22 00:00:00",
+        "data_atualizacao_str": "2025-08-22T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 264: EQUIDADE RACIAL",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=264",
+        "data_atualizacao": "2025-08-08 00:00:00",
+        "data_atualizacao_str": "2025-08-08T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 263: MEDIDAS SOCIOEDUCATIVAS III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=263",
+        "data_atualizacao": "2025-07-18 00:00:00",
+        "data_atualizacao_str": "2025-07-18T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 262: MEDIDAS SOCIOEDUCATIVAS II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=262",
+        "data_atualizacao": "2025-06-27 00:00:00",
+        "data_atualizacao_str": "2025-06-27T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 261: POVOS ORIGINÁRIOS II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=261",
+        "data_atualizacao": "2025-06-13 00:00:00",
+        "data_atualizacao_str": "2025-06-13T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 260: INTERROGATÓRIO",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=260",
+        "data_atualizacao": "2025-05-30 00:00:00",
+        "data_atualizacao_str": "2025-05-30T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 259: DIREITOS DA PESSOA COM TRANSTORNO DO ESPECTRO AUTISTA - TEA",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=259",
+        "data_atualizacao": "2025-05-19 00:00:00",
+        "data_atualizacao_str": "2025-05-19T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 258: AMICUS CURIAE",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=258",
+        "data_atualizacao": "2025-05-09 00:00:00",
+        "data_atualizacao_str": "2025-05-09T00:00:00-03:00"
+    },
+    {
         "id_pesquisa": "000009120",
         "titulo": "Verificação da validade da assinatura digital em contratos e documentos\neletrônicos.",
         "area_direito": "DIREITO CIVIL",
@@ -38,6 +148,16 @@
         "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000009124'",
         "data_atualizacao": "2025-04-22 00:00:00",
         "data_atualizacao_str": "2025-04-22T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 257: RESPONSABILIDADE POR DANO AMBIENTAL II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=257",
+        "data_atualizacao": "2025-04-15 00:00:00",
+        "data_atualizacao_str": "2025-04-15T00:00:00-03:00"
     },
     {
         "id_pesquisa": "000009082",
@@ -80,6 +200,16 @@
         "data_atualizacao_str": "2025-04-07T00:00:00-03:00"
     },
     {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 256: DIREITOS DA CRIANÇA E DO ADOLESCENTE VI",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=256",
+        "data_atualizacao": "2025-04-04 00:00:00",
+        "data_atualizacao_str": "2025-04-04T00:00:00-03:00"
+    },
+    {
         "id_pesquisa": "000009018",
         "titulo": "Competência para o julgamento da ação de despejo proposta contra empresa em\nrecuperação judicial.",
         "area_direito": "DIREITO EMPRESARIAL",
@@ -120,6 +250,16 @@
         "data_atualizacao_str": "2025-03-18T00:00:00-03:00"
     },
     {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 255: 10 ANOS DO CÓDIGO DE PROCESSO CIVIL",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=255",
+        "data_atualizacao": "2025-03-14 00:00:00",
+        "data_atualizacao_str": "2025-03-14T00:00:00-03:00"
+    },
+    {
         "id_pesquisa": "000009009",
         "titulo": "Pagamento de custas por meio de PIX sem a vinculação da Guia de Recolhimento da\nUnião - GRU.",
         "area_direito": "DIREITO PROCESSUAL CIVIL",
@@ -138,6 +278,16 @@
         "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000009015'",
         "data_atualizacao": "2025-03-10 00:00:00",
         "data_atualizacao_str": "2025-03-10T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 254: DIREITOS DA CRIANÇA E DO ADOLESCENTE V",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=254",
+        "data_atualizacao": "2025-03-07 00:00:00",
+        "data_atualizacao_str": "2025-03-07T00:00:00-03:00"
     },
     {
         "id_pesquisa": "000008996",
@@ -190,6 +340,16 @@
         "data_atualizacao_str": "2025-02-24T00:00:00-03:00"
     },
     {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 253: DIREITOS DA CRIANÇA E DO ADOLESCENTE IV",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=253",
+        "data_atualizacao": "2025-02-21 00:00:00",
+        "data_atualizacao_str": "2025-02-21T00:00:00-03:00"
+    },
+    {
         "id_pesquisa": "000008984",
         "titulo": "Discussões relacionadas à remuneração devida ao testamenteiro nomeado,\nconhecida\ncomo \"vintena\".",
         "area_direito": "DIREITO CIVIL",
@@ -198,5 +358,2435 @@
         "link_toc": "https://scon.stj.jus.br/SCON/pesquisa_pronta/toc.jsp?livre=@docn='000008984'",
         "data_atualizacao": "2025-02-17 00:00:00",
         "data_atualizacao_str": "2025-02-17T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 252: 20 ANOS DA LEI DE RECUPERAÇÃO JUDICIAL E EXTRAJUDICIAL E FALÊNCIA\n(LEI N. 11.101/2005)",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=252",
+        "data_atualizacao": "2025-02-07 00:00:00",
+        "data_atualizacao_str": "2025-02-07T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 251: DIREITOS DA CRIANÇA E DO ADOLESCENTE III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=251",
+        "data_atualizacao": "2025-01-17 00:00:00",
+        "data_atualizacao_str": "2025-01-17T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 250: DIREITOS DA CRIANÇA E DO ADOLESCENTE II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=250",
+        "data_atualizacao": "2024-12-13 00:00:00",
+        "data_atualizacao_str": "2024-12-13T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 248: REMIÇÃO DA PENA II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=248",
+        "data_atualizacao": "2024-11-14 00:00:00",
+        "data_atualizacao_str": "2024-11-14T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 247: DIREITO DAS SUCESSÕES V",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=247",
+        "data_atualizacao": "2024-10-30 00:00:00",
+        "data_atualizacao_str": "2024-10-30T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 246: DIREITO DAS SUCESSÕES IV",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=246",
+        "data_atualizacao": "2024-10-18 00:00:00",
+        "data_atualizacao_str": "2024-10-18T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 245: DIREITOS DA CRIANÇA E DO ADOLESCENTE",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=245",
+        "data_atualizacao": "2024-10-04 00:00:00",
+        "data_atualizacao_str": "2024-10-04T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 244: DIREITOS DA PESSOA IDOSA",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=244",
+        "data_atualizacao": "2024-10-01 00:00:00",
+        "data_atualizacao_str": "2024-10-01T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 243: DIREITO DAS SUCESSÕES III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=243",
+        "data_atualizacao": "2024-09-20 00:00:00",
+        "data_atualizacao_str": "2024-09-20T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 242: DIREITO DAS SUCESSÕES II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=242",
+        "data_atualizacao": "2024-09-06 00:00:00",
+        "data_atualizacao_str": "2024-09-06T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 241: DIREITO DAS SUCESSÕES",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=241",
+        "data_atualizacao": "2024-08-23 00:00:00",
+        "data_atualizacao_str": "2024-08-23T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 240: LEGISLAÇÃO DE TRÂNSITO IV",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=240",
+        "data_atualizacao": "2024-08-09 00:00:00",
+        "data_atualizacao_str": "2024-08-09T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 239: LEGISLAÇÃO DE TRÂNSITO III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=239",
+        "data_atualizacao": "2024-07-12 00:00:00",
+        "data_atualizacao_str": "2024-07-12T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 238: DIREITOS RELATIVOS À DIVERSIDADE",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=238",
+        "data_atualizacao": "2024-06-21 00:00:00",
+        "data_atualizacao_str": "2024-06-21T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 237: BUSCA E APREENSÃO EM PROCESSO PENAL II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=237",
+        "data_atualizacao": "2024-06-07 00:00:00",
+        "data_atualizacao_str": "2024-06-07T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 236: BUSCA E APREENSÃO EM PROCESSO PENAL",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=236",
+        "data_atualizacao": "2024-05-23 00:00:00",
+        "data_atualizacao_str": "2024-05-23T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 235: SUCESSÃO TESTAMENTÁRIA",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=235",
+        "data_atualizacao": "2024-05-10 00:00:00",
+        "data_atualizacao_str": "2024-05-10T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 234: IMPROBIDADE ADMINISTRATIVA VI",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=234",
+        "data_atualizacao": "2024-04-26 00:00:00",
+        "data_atualizacao_str": "2024-04-26T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 233: POVOS ORIGINÁRIOS",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=233",
+        "data_atualizacao": "2024-04-12 00:00:00",
+        "data_atualizacao_str": "2024-04-12T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 232: CONTRATOS DE SEGURO VI",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=232",
+        "data_atualizacao": "2024-03-22 00:00:00",
+        "data_atualizacao_str": "2024-03-22T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 231: JULGAMENTOS COM PERSPECTIVA DE GÊNERO IV",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=231",
+        "data_atualizacao": "2024-03-01 00:00:00",
+        "data_atualizacao_str": "2024-03-01T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 230: CONTRATOS DE SEGURO V",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=230",
+        "data_atualizacao": "2024-02-23 00:00:00",
+        "data_atualizacao_str": "2024-02-23T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 229: REGISTROS PÚBLICOS, CARTORÁRIOS E NOTARIAIS VI",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=229",
+        "data_atualizacao": "2024-02-09 00:00:00",
+        "data_atualizacao_str": "2024-02-09T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 228: REGISTROS PÚBLICOS, CARTORÁRIOS E NOTARIAIS V",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=228",
+        "data_atualizacao": "2024-01-19 00:00:00",
+        "data_atualizacao_str": "2024-01-19T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 227: REGISTROS PÚBLICOS, CARTORÁRIOS E NOTARIAIS IV",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=227",
+        "data_atualizacao": "2023-12-07 00:00:00",
+        "data_atualizacao_str": "2023-12-07T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 226: REGISTROS PÚBLICOS, CARTORÁRIOS E NOTARIAIS III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=226",
+        "data_atualizacao": "2023-11-24 00:00:00",
+        "data_atualizacao_str": "2023-11-24T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 225: REGISTROS PÚBLICOS, CARTORÁRIOS E NOTARIAIS II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=225",
+        "data_atualizacao": "2023-11-10 00:00:00",
+        "data_atualizacao_str": "2023-11-10T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 224: MARCO CIVIL DA INTERNET III - LEI N. 12.965/2014",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=224",
+        "data_atualizacao": "2023-10-27 00:00:00",
+        "data_atualizacao_str": "2023-10-27T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 223: MARCO CIVIL DA INTERNET II - LEI N. 12.965/2014",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=223",
+        "data_atualizacao": "2023-10-11 00:00:00",
+        "data_atualizacao_str": "2023-10-11T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 222: MARCO CIVIL DA INTERNET - LEI N. 12.965/2014",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=222",
+        "data_atualizacao": "2023-09-29 00:00:00",
+        "data_atualizacao_str": "2023-09-29T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 221: PRINCÍPIO DA INSIGNIFICÂNCIA III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=221",
+        "data_atualizacao": "2023-09-15 00:00:00",
+        "data_atualizacao_str": "2023-09-15T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 220: PRINCÍPIO DA INSIGNIFICÂNCIA II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=220",
+        "data_atualizacao": "2023-09-01 00:00:00",
+        "data_atualizacao_str": "2023-09-01T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 219: PRINCÍPIO DA INSIGNIFICÂNCIA",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=219",
+        "data_atualizacao": "2023-08-18 00:00:00",
+        "data_atualizacao_str": "2023-08-18T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 218: DIREITO AMBIENTAL VI",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=218",
+        "data_atualizacao": "2023-08-04 00:00:00",
+        "data_atualizacao_str": "2023-08-04T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 217: DIREITO AMBIENTAL V",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=217",
+        "data_atualizacao": "2023-07-14 00:00:00",
+        "data_atualizacao_str": "2023-07-14T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 216: DIREITO AMBIENTAL IV",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=216",
+        "data_atualizacao": "2023-06-30 00:00:00",
+        "data_atualizacao_str": "2023-06-30T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 215: DIREITO AMBIENTAL III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=215",
+        "data_atualizacao": "2023-06-16 00:00:00",
+        "data_atualizacao_str": "2023-06-16T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 214: DIREITO AMBIENTAL II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=214",
+        "data_atualizacao": "2023-06-02 00:00:00",
+        "data_atualizacao_str": "2023-06-02T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 213: DOS DIREITOS DA PESSOA COM DEFICIÊNCIA III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=213",
+        "data_atualizacao": "2023-05-19 00:00:00",
+        "data_atualizacao_str": "2023-05-19T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 212: DOS DIREITOS DA PESSOA COM DEFICIÊNCIA II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=212",
+        "data_atualizacao": "2023-05-05 00:00:00",
+        "data_atualizacao_str": "2023-05-05T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 211: JULGAMENTOS COM PERSPECTIVA DE GÊNERO III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=211",
+        "data_atualizacao": "2023-04-20 00:00:00",
+        "data_atualizacao_str": "2023-04-20T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 210: JULGAMENTOS COM PERSPECTIVA DE GÊNERO II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=210",
+        "data_atualizacao": "2023-04-04 00:00:00",
+        "data_atualizacao_str": "2023-04-04T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 209: JULGAMENTOS COM PERSPECTIVA DE GÊNERO",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=209",
+        "data_atualizacao": "2023-03-24 00:00:00",
+        "data_atualizacao_str": "2023-03-24T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 208: DOS DIREITOS DA PESSOA COM DEFICIÊNCIA",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=208",
+        "data_atualizacao": "2023-03-10 00:00:00",
+        "data_atualizacao_str": "2023-03-10T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 207: BENEFÍCIOS PREVIDENCIÁRIOS II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=207",
+        "data_atualizacao": "2023-02-24 00:00:00",
+        "data_atualizacao_str": "2023-02-24T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 206: MEDIDAS PROTETIVAS NA LEI MARIA DA PENHA II - LEI N. 11.340/2006",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=206",
+        "data_atualizacao": "2023-02-10 00:00:00",
+        "data_atualizacao_str": "2023-02-10T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 205: MEDIDAS PROTETIVAS NA LEI MARIA DA PENHA - LEI N. 11.340/2006",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=205",
+        "data_atualizacao": "2022-12-09 00:00:00",
+        "data_atualizacao_str": "2022-12-09T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 204: BEM DE FAMÍLIA VI",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=204",
+        "data_atualizacao": "2022-11-25 00:00:00",
+        "data_atualizacao_str": "2022-11-25T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 203: BEM DE FAMÍLIA V",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=203",
+        "data_atualizacao": "2022-11-11 00:00:00",
+        "data_atualizacao_str": "2022-11-11T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 202: BEM DE FAMÍLIA IV",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=202",
+        "data_atualizacao": "2022-10-28 00:00:00",
+        "data_atualizacao_str": "2022-10-28T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 201: BEM DE FAMÍLIA III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=201",
+        "data_atualizacao": "2022-10-14 00:00:00",
+        "data_atualizacao_str": "2022-10-14T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 200: BEM DE FAMÍLIA II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=200",
+        "data_atualizacao": "2022-09-30 00:00:00",
+        "data_atualizacao_str": "2022-09-30T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 199: AUXÍLIO-ACIDENTE II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=199",
+        "data_atualizacao": "2022-09-16 00:00:00",
+        "data_atualizacao_str": "2022-09-16T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 198: AUXÍLIO-ACIDENTE",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=198",
+        "data_atualizacao": "2022-09-02 00:00:00",
+        "data_atualizacao_str": "2022-09-02T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 197: DA COLABORAÇÃO PREMIADA V",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=197",
+        "data_atualizacao": "2022-08-19 00:00:00",
+        "data_atualizacao_str": "2022-08-19T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 196: DA COLABORAÇÃO PREMIADA IV",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=196",
+        "data_atualizacao": "2022-08-05 00:00:00",
+        "data_atualizacao_str": "2022-08-05T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 195: DA COLABORAÇÃO PREMIADA III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=195",
+        "data_atualizacao": "2022-07-15 00:00:00",
+        "data_atualizacao_str": "2022-07-15T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 194: DA COLABORAÇÃO PREMIADA II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=194",
+        "data_atualizacao": "2022-06-17 00:00:00",
+        "data_atualizacao_str": "2022-06-17T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 193: DA COLABORAÇÃO PREMIADA",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=193",
+        "data_atualizacao": "2022-06-03 00:00:00",
+        "data_atualizacao_str": "2022-06-03T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 192: EMBARGOS DE DECLARAÇÃO IV",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=192",
+        "data_atualizacao": "2022-05-20 00:00:00",
+        "data_atualizacao_str": "2022-05-20T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 191: EMBARGOS DE DECLARAÇÃO III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=191",
+        "data_atualizacao": "2022-05-06 00:00:00",
+        "data_atualizacao_str": "2022-05-06T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 190: EMBARGOS DE DECLARAÇÃO II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=190",
+        "data_atualizacao": "2022-04-22 00:00:00",
+        "data_atualizacao_str": "2022-04-22T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 189: EMBARGOS DE DECLARAÇÃO I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=189",
+        "data_atualizacao": "2022-04-08 00:00:00",
+        "data_atualizacao_str": "2022-04-08T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 188: IMPROBIDADE ADMINISTRATIVA V",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=188",
+        "data_atualizacao": "2022-03-25 00:00:00",
+        "data_atualizacao_str": "2022-03-25T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 187: IMPROBIDADE ADMINISTRATIVA IV",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=187",
+        "data_atualizacao": "2022-03-11 00:00:00",
+        "data_atualizacao_str": "2022-03-11T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 186: IMPROBIDADE ADMINISTRATIVA III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=186",
+        "data_atualizacao": "2022-02-25 00:00:00",
+        "data_atualizacao_str": "2022-02-25T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 185: DO PACOTE ANTICRIME II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=185",
+        "data_atualizacao": "2022-02-11 00:00:00",
+        "data_atualizacao_str": "2022-02-11T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 184: DO PACOTE ANTICRIME",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=184",
+        "data_atualizacao": "2022-01-21 00:00:00",
+        "data_atualizacao_str": "2022-01-21T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 183: AGRAVO INTERNO II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=183",
+        "data_atualizacao": "2021-12-17 00:00:00",
+        "data_atualizacao_str": "2021-12-17T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 182: AGRAVO INTERNO",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=182",
+        "data_atualizacao": "2021-12-03 00:00:00",
+        "data_atualizacao_str": "2021-12-03T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 180: ORIENTAÇÕES JURISPRUDENCIAIS SOBRE A COVID-19 - III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=180",
+        "data_atualizacao": "2021-11-05 00:00:00",
+        "data_atualizacao_str": "2021-11-05T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 177: ICMS - IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS, BENS E SERVIÇOS \nIII",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=177",
+        "data_atualizacao": "2021-09-24 00:00:00",
+        "data_atualizacao_str": "2021-09-24T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 176: DOS CRIMES CONTRA A ORDEM TRIBUTÁRIA, ECONÔMICA E CONTRA AS \nRELAÇÕES DE CONSUMO IV",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=176",
+        "data_atualizacao": "2021-09-10 00:00:00",
+        "data_atualizacao_str": "2021-09-10T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 175: ICMS - IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS, BENS E SERVIÇOS\n-\nII",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=175",
+        "data_atualizacao": "2021-08-27 00:00:00",
+        "data_atualizacao_str": "2021-08-27T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 174: DOS CRIMES CONTRA A ORDEM TRIBUTÁRIA, ECONÔMICA E CONTRA AS \nRELAÇÕES DE CONSUMO - III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=174",
+        "data_atualizacao": "2021-08-13 00:00:00",
+        "data_atualizacao_str": "2021-08-13T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 173: DOS EMBARGOS DE DIVERGÊNCIA - IV",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=173",
+        "data_atualizacao": "2021-07-30 00:00:00",
+        "data_atualizacao_str": "2021-07-30T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 172: DOS EMBARGOS DE DIVERGÊNCIA - III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=172",
+        "data_atualizacao": "2021-06-18 00:00:00",
+        "data_atualizacao_str": "2021-06-18T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 171: DOS EMBARGOS DE DIVERGÊNCIA - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=171",
+        "data_atualizacao": "2021-06-04 00:00:00",
+        "data_atualizacao_str": "2021-06-04T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 170: DOS EMBARGOS DE DIVERGÊNCIA - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=170",
+        "data_atualizacao": "2021-05-21 00:00:00",
+        "data_atualizacao_str": "2021-05-21T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 169: FORNECIMENTO DE MEDICAMENTO PELO PODER PÚBLICO - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=169",
+        "data_atualizacao": "2021-05-07 00:00:00",
+        "data_atualizacao_str": "2021-05-07T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 168: FORNECIMENTO DE MEDICAMENTO PELO PODER PÚBLICO - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=168",
+        "data_atualizacao": "2021-04-23 00:00:00",
+        "data_atualizacao_str": "2021-04-23T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 167: DO CRIME DE LAVAGEM - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=167",
+        "data_atualizacao": "2021-04-09 00:00:00",
+        "data_atualizacao_str": "2021-04-09T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 166: DO CRIME DE LAVAGEM - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=166",
+        "data_atualizacao": "2021-03-26 00:00:00",
+        "data_atualizacao_str": "2021-03-26T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 164: DIREITO DO CONSUMIDOR - VIII",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=164",
+        "data_atualizacao": "2021-02-26 00:00:00",
+        "data_atualizacao_str": "2021-02-26T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 163: DIREITO DO CONSUMIDOR - VII",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=163",
+        "data_atualizacao": "2021-02-12 00:00:00",
+        "data_atualizacao_str": "2021-02-12T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 162: DIREITO DO CONSUMIDOR - VI",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=162",
+        "data_atualizacao": "2021-01-29 00:00:00",
+        "data_atualizacao_str": "2021-01-29T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 161: DIREITO DO CONSUMIDOR - V",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=161",
+        "data_atualizacao": "2020-12-11 00:00:00",
+        "data_atualizacao_str": "2020-12-11T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 160: DIREITO DO CONSUMIDOR - IV",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=160",
+        "data_atualizacao": "2020-11-27 00:00:00",
+        "data_atualizacao_str": "2020-11-27T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 159: LEI DE EXECUÇÃO FISCAL - VI",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=159",
+        "data_atualizacao": "2020-10-30 00:00:00",
+        "data_atualizacao_str": "2020-10-30T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 158: LEI DE EXECUÇÃO FISCAL - V",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=158",
+        "data_atualizacao": "2020-10-16 00:00:00",
+        "data_atualizacao_str": "2020-10-16T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 157: LEI DE EXECUÇÃO FISCAL - IV",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=157",
+        "data_atualizacao": "2020-10-02 00:00:00",
+        "data_atualizacao_str": "2020-10-02T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 156: LEI DE EXECUÇÃO FISCAL - III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=156",
+        "data_atualizacao": "2020-09-18 00:00:00",
+        "data_atualizacao_str": "2020-09-18T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 155: LEI DE EXECUÇÃO FISCAL - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=155",
+        "data_atualizacao": "2020-09-04 00:00:00",
+        "data_atualizacao_str": "2020-09-04T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 154: COMPILADO: PROCESSO ADMINISTRATIVO DISCIPLINAR",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=154",
+        "data_atualizacao": "2020-08-21 00:00:00",
+        "data_atualizacao_str": "2020-08-21T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 152: DOS CRIMES CONTRA A DIGNIDADE SEXUAL - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=152",
+        "data_atualizacao": "2020-07-10 00:00:00",
+        "data_atualizacao_str": "2020-07-10T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 151: DOS CRIMES CONTRA A DIGNIDADE SEXUAL - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=151",
+        "data_atualizacao": "2020-06-26 00:00:00",
+        "data_atualizacao_str": "2020-06-26T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 150: GRATUIDADE DA JUSTIÇA - III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=150",
+        "data_atualizacao": "2020-06-12 00:00:00",
+        "data_atualizacao_str": "2020-06-12T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 149: GRATUIDADE DA JUSTIÇA - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=149",
+        "data_atualizacao": "2020-05-29 00:00:00",
+        "data_atualizacao_str": "2020-05-29T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 148: GRATUIDADE DA JUSTIÇA - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=148",
+        "data_atualizacao": "2020-05-15 00:00:00",
+        "data_atualizacao_str": "2020-05-15T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 146: FALTA GRAVE EM EXECUÇÃO PENAL - IV",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=146",
+        "data_atualizacao": "2020-04-17 00:00:00",
+        "data_atualizacao_str": "2020-04-17T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 145: FALTA GRAVE EM EXECUÇÃO PENAL - III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=145",
+        "data_atualizacao": "2020-04-03 00:00:00",
+        "data_atualizacao_str": "2020-04-03T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 144: FALTA GRAVE EM EXECUÇÃO PENAL - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=144",
+        "data_atualizacao": "2020-03-20 00:00:00",
+        "data_atualizacao_str": "2020-03-20T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 143: PLANO DE SAÚDE - III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=143",
+        "data_atualizacao": "2020-03-06 00:00:00",
+        "data_atualizacao_str": "2020-03-06T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 142: PROCESSO ADMINISTRATIVO DISCIPLINAR - V",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=142",
+        "data_atualizacao": "2020-02-21 00:00:00",
+        "data_atualizacao_str": "2020-02-21T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 141: PROCESSO ADMINISTRATIVO DISCIPLINAR - IV",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=141",
+        "data_atualizacao": "2020-02-07 00:00:00",
+        "data_atualizacao_str": "2020-02-07T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 140: PROCESSO ADMINISTRATIVO DISCIPLINAR - III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=140",
+        "data_atualizacao": "2020-01-24 00:00:00",
+        "data_atualizacao_str": "2020-01-24T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 139: DO INDULTO E DA COMUTAÇÃO DE PENA",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=139",
+        "data_atualizacao": "2019-12-13 00:00:00",
+        "data_atualizacao_str": "2019-12-13T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 138: DOS DIREITOS DA PERSONALIDADE - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=138",
+        "data_atualizacao": "2019-11-29 00:00:00",
+        "data_atualizacao_str": "2019-11-29T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 137: DOS DIREITOS DA PERSONALIDADE - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=137",
+        "data_atualizacao": "2019-11-14 00:00:00",
+        "data_atualizacao_str": "2019-11-14T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 136: CONSELHOS PROFISSIONAIS - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=136",
+        "data_atualizacao": "2019-10-30 00:00:00",
+        "data_atualizacao_str": "2019-10-30T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 135: CONSELHOS PROFISSIONAIS - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=135",
+        "data_atualizacao": "2019-10-18 00:00:00",
+        "data_atualizacao_str": "2019-10-18T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 133: DO DIREITO DAS COISAS",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=133",
+        "data_atualizacao": "2019-09-20 00:00:00",
+        "data_atualizacao_str": "2019-09-20T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 132: DO PROCESSO ADMINISTRATIVO - LEI N. 9.784/1999",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=132",
+        "data_atualizacao": "2019-09-06 00:00:00",
+        "data_atualizacao_str": "2019-09-06T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 131: COMPILADO: LEI DE DROGAS",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=131",
+        "data_atualizacao": "2019-08-23 00:00:00",
+        "data_atualizacao_str": "2019-08-23T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 130: DOS CRIMES CONTRA A HONRA",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=130",
+        "data_atualizacao": "2019-08-09 00:00:00",
+        "data_atualizacao_str": "2019-08-09T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 129: DOS HONORÁRIOS ADVOCATÍCIOS - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=129",
+        "data_atualizacao": "2019-07-19 00:00:00",
+        "data_atualizacao_str": "2019-07-19T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 128: DOS HONORÁRIOS ADVOCATÍCIOS - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=128",
+        "data_atualizacao": "2019-06-28 00:00:00",
+        "data_atualizacao_str": "2019-06-28T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 127: INTERVENÇÃO DO ESTADO NA PROPRIEDADE PRIVADA",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=127",
+        "data_atualizacao": "2019-06-14 00:00:00",
+        "data_atualizacao_str": "2019-06-14T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 126: LEI DE DROGAS - IV",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=126",
+        "data_atualizacao": "2019-05-31 00:00:00",
+        "data_atualizacao_str": "2019-05-31T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 125: RESPONSABILIDADE CIVIL - DANO MORAL",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=125",
+        "data_atualizacao": "2019-05-17 00:00:00",
+        "data_atualizacao_str": "2019-05-17T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 124: BENS PÚBLICOS",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=124",
+        "data_atualizacao": "2019-05-03 00:00:00",
+        "data_atualizacao_str": "2019-05-03T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 123: LEI DE DROGAS - III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=123",
+        "data_atualizacao": "2019-04-16 00:00:00",
+        "data_atualizacao_str": "2019-04-16T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 122: DA ARBITRAGEM",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=122",
+        "data_atualizacao": "2019-04-05 00:00:00",
+        "data_atualizacao_str": "2019-04-05T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 121: IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS, BENS E SERVIÇOS - ICMS",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=121",
+        "data_atualizacao": "2019-03-22 00:00:00",
+        "data_atualizacao_str": "2019-03-22T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 120: DA PRISÃO EM FLAGRANTE",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=120",
+        "data_atualizacao": "2019-03-08 00:00:00",
+        "data_atualizacao_str": "2019-03-08T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 119: RESPONSABILIDADE POR DANO AMBIENTAL",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=119",
+        "data_atualizacao": "2019-02-22 00:00:00",
+        "data_atualizacao_str": "2019-02-22T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 118: IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=118",
+        "data_atualizacao": "2019-02-08 00:00:00",
+        "data_atualizacao_str": "2019-02-08T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 117: INTERCEPTAÇÃO TELEFÔNICA - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=117",
+        "data_atualizacao": "2019-01-25 00:00:00",
+        "data_atualizacao_str": "2019-01-25T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 116: CONTRATOS DE SEGURO IV",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=116",
+        "data_atualizacao": "2018-12-14 00:00:00",
+        "data_atualizacao_str": "2018-12-14T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 115: CONCURSO PÚBLICO - V",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=115",
+        "data_atualizacao": "2018-11-30 00:00:00",
+        "data_atualizacao_str": "2018-11-30T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 114: LEGISLAÇÃO DE TRÂNSITO - II: DOS CRIMES DE TRÂNSITO",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=114",
+        "data_atualizacao": "2018-11-16 00:00:00",
+        "data_atualizacao_str": "2018-11-16T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 113: DA DISSOLUÇÃO DA SOCIEDADE CONJUGAL E DA UNIÃO ESTÁVEL - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=113",
+        "data_atualizacao": "2018-10-31 00:00:00",
+        "data_atualizacao_str": "2018-10-31T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 112: LEGISLAÇÃO DE TRÂNSITO - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=112",
+        "data_atualizacao": "2018-10-19 00:00:00",
+        "data_atualizacao_str": "2018-10-19T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 111: PROVAS NO PROCESSO PENAL - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=111",
+        "data_atualizacao": "2018-10-05 00:00:00",
+        "data_atualizacao_str": "2018-10-05T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 110: DOS CONTRATOS DE PROMESSA DE COMPRA E VENDA E DE \nCOMPRA E VENDA DE BENS IMÓVEIS - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=110",
+        "data_atualizacao": "2018-09-21 00:00:00",
+        "data_atualizacao_str": "2018-09-21T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 109: FUNDO DE GARANTIA POR TEMPO DE SERVIÇO - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=109",
+        "data_atualizacao": "2018-09-06 00:00:00",
+        "data_atualizacao_str": "2018-09-06T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 107: DOS CONTRATOS DE PROMESSA DE COMPRA E VENDA E DE \nCOMPRA E VENDA DE BENS IMÓVEIS - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=107",
+        "data_atualizacao": "2018-08-10 00:00:00",
+        "data_atualizacao_str": "2018-08-10T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 106: FUNDO DE GARANTIA POR TEMPO DE SERVIÇO - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=106",
+        "data_atualizacao": "2018-06-22 00:00:00",
+        "data_atualizacao_str": "2018-06-22T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 105: PROVAS NO PROCESSO PENAL - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=105",
+        "data_atualizacao": "2018-06-08 00:00:00",
+        "data_atualizacao_str": "2018-06-08T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 104: DA FIANÇA - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=104",
+        "data_atualizacao": "2018-05-25 00:00:00",
+        "data_atualizacao_str": "2018-05-25T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 103: CONCURSO PÚBLICO - IV",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=103",
+        "data_atualizacao": "2018-05-11 00:00:00",
+        "data_atualizacao_str": "2018-05-11T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 102: ESTATUTO DO DESARMAMENTO - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=102",
+        "data_atualizacao": "2018-04-27 00:00:00",
+        "data_atualizacao_str": "2018-04-27T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 101: DA FIANÇA - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=101",
+        "data_atualizacao": "2018-04-13 00:00:00",
+        "data_atualizacao_str": "2018-04-13T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 100: DOS DIREITOS DA PESSOA IDOSA E DA PESSOA COM DEFICIÊNCIA",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=100",
+        "data_atualizacao": "2018-03-27 00:00:00",
+        "data_atualizacao_str": "2018-03-27T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 99: DOS CRIMES CONTRA A ORDEM TRIBUTÁRIA, ECONÔMICA E CONTRA AS \nRELAÇÕES DE CONSUMO - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=99",
+        "data_atualizacao": "2018-03-16 00:00:00",
+        "data_atualizacao_str": "2018-03-16T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 98: CONTRATOS DE SEGURO III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=98",
+        "data_atualizacao": "2018-02-28 00:00:00",
+        "data_atualizacao_str": "2018-02-28T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 97: LICITAÇÕES - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=97",
+        "data_atualizacao": "2018-02-16 00:00:00",
+        "data_atualizacao_str": "2018-02-16T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 96: JUIZADOS ESPECIAIS CRIMINAIS - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=96",
+        "data_atualizacao": "2018-01-31 00:00:00",
+        "data_atualizacao_str": "2018-01-31T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 95: CONTRATOS DE SEGURO II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=95",
+        "data_atualizacao": "2017-12-13 00:00:00",
+        "data_atualizacao_str": "2017-12-13T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 94: APOSENTADORIA RURAL",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=94",
+        "data_atualizacao": "2017-11-29 00:00:00",
+        "data_atualizacao_str": "2017-11-29T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 93: JUIZADOS ESPECIAIS CRIMINAIS - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=93",
+        "data_atualizacao": "2017-11-14 00:00:00",
+        "data_atualizacao_str": "2017-11-14T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 92: SISTEMA FINANCEIRO DA HABITAÇÃO - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=92",
+        "data_atualizacao": "2017-10-31 00:00:00",
+        "data_atualizacao_str": "2017-10-31T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 91: MANDADO DE SEGURANÇA - III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=91",
+        "data_atualizacao": "2017-10-18 00:00:00",
+        "data_atualizacao_str": "2017-10-18T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 90: DOS CRIMES CONTRA A ORDEM TRIBUTÁRIA, \nECONÔMICA E CONTRA AS RELAÇÕES DE CONSUMO - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=90",
+        "data_atualizacao": "2017-10-04 00:00:00",
+        "data_atualizacao_str": "2017-10-04T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 89: JUIZADOS ESPECIAIS",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=89",
+        "data_atualizacao": "2017-09-20 00:00:00",
+        "data_atualizacao_str": "2017-09-20T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 88: DOS MILITARES",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=88",
+        "data_atualizacao": "2017-09-06 00:00:00",
+        "data_atualizacao_str": "2017-09-06T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 87: CRIMES CONTRA O PATRIMÔNIO - IV",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=87",
+        "data_atualizacao": "2017-08-23 00:00:00",
+        "data_atualizacao_str": "2017-08-23T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 86: SISTEMA FINANCEIRO DA HABITAÇÃO - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=86",
+        "data_atualizacao": "2017-08-09 00:00:00",
+        "data_atualizacao_str": "2017-08-09T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 85: MANDADO DE SEGURANÇA - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=85",
+        "data_atualizacao": "2017-07-26 00:00:00",
+        "data_atualizacao_str": "2017-07-26T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 84: CRIMES CONTRA O PATRIMÔNIO - III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=84",
+        "data_atualizacao": "2017-06-28 00:00:00",
+        "data_atualizacao_str": "2017-06-28T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 83: BANCÁRIO - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=83",
+        "data_atualizacao": "2017-06-14 00:00:00",
+        "data_atualizacao_str": "2017-06-14T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 82: PODER DE POLÍCIA",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=82",
+        "data_atualizacao": "2017-05-31 00:00:00",
+        "data_atualizacao_str": "2017-05-31T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 81: CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=81",
+        "data_atualizacao": "2017-05-17 00:00:00",
+        "data_atualizacao_str": "2017-05-17T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 80: REGISTROS PÚBLICOS, CARTORÁRIOS E NOTARIAIS",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=80",
+        "data_atualizacao": "2017-05-03 00:00:00",
+        "data_atualizacao_str": "2017-05-03T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 79: ENTIDADES DA ADMINISTRAÇÃO PÚBLICA INDIRETA",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=79",
+        "data_atualizacao": "2017-04-19 00:00:00",
+        "data_atualizacao_str": "2017-04-19T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 78: TRIBUNAL DO JÚRI - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=78",
+        "data_atualizacao": "2017-04-05 00:00:00",
+        "data_atualizacao_str": "2017-04-05T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 77: ALIMENTOS - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=77",
+        "data_atualizacao": "2017-03-22 00:00:00",
+        "data_atualizacao_str": "2017-03-22T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 76: SERVIDOR PÚBLICO - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=76",
+        "data_atualizacao": "2017-03-08 00:00:00",
+        "data_atualizacao_str": "2017-03-08T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 75: TRIBUNAL DO JÚRI - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=75",
+        "data_atualizacao": "2017-02-22 00:00:00",
+        "data_atualizacao_str": "2017-02-22T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 74: DIREITO DO CONSUMIDOR III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=74",
+        "data_atualizacao": "2017-02-08 00:00:00",
+        "data_atualizacao_str": "2017-02-08T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 73: SERVIDOR PÚBLICO - REMUNERAÇÃO",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=73",
+        "data_atualizacao": "2017-01-25 00:00:00",
+        "data_atualizacao_str": "2017-01-25T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 72: COMPETÊNCIA CRIMINAL",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=72",
+        "data_atualizacao": "2016-12-14 00:00:00",
+        "data_atualizacao_str": "2016-12-14T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 71: PREVIDÊNCIA COMPLEMENTAR",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=71",
+        "data_atualizacao": "2016-11-30 00:00:00",
+        "data_atualizacao_str": "2016-11-30T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 70: DIREITO TRIBUTÁRIO - PARTE GERAL",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=70",
+        "data_atualizacao": "2016-11-16 00:00:00",
+        "data_atualizacao_str": "2016-11-16T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 69: NULIDADES NO PROCESSO PENAL",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=69",
+        "data_atualizacao": "2016-11-03 00:00:00",
+        "data_atualizacao_str": "2016-11-03T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 68: CONDOMÍNIO",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=68",
+        "data_atualizacao": "2016-10-19 00:00:00",
+        "data_atualizacao_str": "2016-10-19T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 67: BENEFÍCIOS PREVIDENCIÁRIOS",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=67",
+        "data_atualizacao": "2016-10-05 00:00:00",
+        "data_atualizacao_str": "2016-10-05T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 66: APELAÇÃO E RECURSO EM SENTIDO ESTRITO",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=66",
+        "data_atualizacao": "2016-09-21 00:00:00",
+        "data_atualizacao_str": "2016-09-21T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 65: ALIMENTOS",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=65",
+        "data_atualizacao": "2016-09-07 00:00:00",
+        "data_atualizacao_str": "2016-09-07T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 64: IMPOSTOS MUNICIPAIS II - ISS",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=64",
+        "data_atualizacao": "2016-08-24 00:00:00",
+        "data_atualizacao_str": "2016-08-24T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 63: REVISÃO CRIMINAL",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=63",
+        "data_atualizacao": "2016-08-10 00:00:00",
+        "data_atualizacao_str": "2016-08-10T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 62: CHEQUE",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=62",
+        "data_atualizacao": "2016-07-27 00:00:00",
+        "data_atualizacao_str": "2016-07-27T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 61: RESPONSABILIDADE CIVIL DO ESTADO",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=61",
+        "data_atualizacao": "2016-07-06 00:00:00",
+        "data_atualizacao_str": "2016-07-06T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 60: LEI DE DROGAS - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=60",
+        "data_atualizacao": "2016-06-22 00:00:00",
+        "data_atualizacao_str": "2016-06-22T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 59: CADASTRO DE INADIMPLENTES",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=59",
+        "data_atualizacao": "2016-06-08 00:00:00",
+        "data_atualizacao_str": "2016-06-08T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 58: PIS E COFINS",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=58",
+        "data_atualizacao": "2016-05-25 00:00:00",
+        "data_atualizacao_str": "2016-05-25T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 57: CRIMES CONTRA A ADMINISTRAÇÃO PÚBLICA",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=57",
+        "data_atualizacao": "2016-05-11 00:00:00",
+        "data_atualizacao_str": "2016-05-11T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 56: TÍTULOS DE CRÉDITO",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=56",
+        "data_atualizacao": "2016-04-27 00:00:00",
+        "data_atualizacao_str": "2016-04-27T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 55: IMPOSTOS MUNICIPAIS",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=55",
+        "data_atualizacao": "2016-04-13 00:00:00",
+        "data_atualizacao_str": "2016-04-13T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 54: MEDIDAS SOCIOEDUCATIVAS",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=54",
+        "data_atualizacao": "2016-03-30 00:00:00",
+        "data_atualizacao_str": "2016-03-30T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 53: LOCAÇÃO DE IMÓVEIS URBANOS",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=53",
+        "data_atualizacao": "2016-03-16 00:00:00",
+        "data_atualizacao_str": "2016-03-16T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 52: EXECUÇÃO FISCAL",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=52",
+        "data_atualizacao": "2016-03-02 00:00:00",
+        "data_atualizacao_str": "2016-03-02T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 51: CRIMES CONTRA O PATRIMÔNIO - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=51",
+        "data_atualizacao": "2016-02-17 00:00:00",
+        "data_atualizacao_str": "2016-02-17T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 50: UNIÃO ESTÁVEL",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=50",
+        "data_atualizacao": "2016-02-11 00:00:00",
+        "data_atualizacao_str": "2016-02-11T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 49: DESAPROPRIAÇÃO - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=49",
+        "data_atualizacao": "2016-01-27 00:00:00",
+        "data_atualizacao_str": "2016-01-27T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 48: BANCÁRIO",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=48",
+        "data_atualizacao": "2015-12-18 00:00:00",
+        "data_atualizacao_str": "2015-12-18T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 47: CRIMES CONTRA O PATRIMÔNIO - FURTO",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=47",
+        "data_atualizacao": "2015-12-09 00:00:00",
+        "data_atualizacao_str": "2015-12-09T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 46: DESAPROPRIAÇÃO",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=46",
+        "data_atualizacao": "2015-11-25 00:00:00",
+        "data_atualizacao_str": "2015-11-25T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 45: LEI DE DROGAS",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=45",
+        "data_atualizacao": "2015-11-11 00:00:00",
+        "data_atualizacao_str": "2015-11-11T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 44: BEM DE FAMÍLIA",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=44",
+        "data_atualizacao": "2015-10-28 00:00:00",
+        "data_atualizacao_str": "2015-10-28T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 43: MANDADO DE SEGURANÇA - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=43",
+        "data_atualizacao": "2015-10-14 00:00:00",
+        "data_atualizacao_str": "2015-10-14T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 42: DIREITO DO CONSUMIDOR II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=42",
+        "data_atualizacao": "2015-09-30 00:00:00",
+        "data_atualizacao_str": "2015-09-30T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 41: VIOLÊNCIA DOMÉSTICA E FAMILIAR CONTRA MULHER",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=41",
+        "data_atualizacao": "2015-09-16 00:00:00",
+        "data_atualizacao_str": "2015-09-16T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 40: IMPROBIDADE ADMINISTRATIVA - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=40",
+        "data_atualizacao": "2015-09-02 00:00:00",
+        "data_atualizacao_str": "2015-09-02T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 39: DIREITO DO CONSUMIDOR I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=39",
+        "data_atualizacao": "2015-08-19 00:00:00",
+        "data_atualizacao_str": "2015-08-19T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 38: IMPROBIDADE ADMINISTRATIVA - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=38",
+        "data_atualizacao": "2015-08-05 00:00:00",
+        "data_atualizacao_str": "2015-08-05T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 37: RECUPERAÇÃO JUDICIAL II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=37",
+        "data_atualizacao": "2015-06-24 00:00:00",
+        "data_atualizacao_str": "2015-06-24T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 36: HABEAS CORPUS",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=36",
+        "data_atualizacao": "2015-06-10 00:00:00",
+        "data_atualizacao_str": "2015-06-10T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 35: RECUPERAÇÃO JUDICIAL - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=35",
+        "data_atualizacao": "2015-05-27 00:00:00",
+        "data_atualizacao_str": "2015-05-27T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 34: APOSENTADORIA ESPECIAL",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=34",
+        "data_atualizacao": "2015-05-13 00:00:00",
+        "data_atualizacao_str": "2015-05-13T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 33: RECURSO ESPECIAL II - ADMISSIBILIDADE",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=33",
+        "data_atualizacao": "2015-04-29 00:00:00",
+        "data_atualizacao_str": "2015-04-29T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 32: PRISÃO PREVENTIVA",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=32",
+        "data_atualizacao": "2015-04-15 00:00:00",
+        "data_atualizacao_str": "2015-04-15T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 31: RECURSO ESPECIAL - ADMISSIBILIDADE",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=31",
+        "data_atualizacao": "2015-03-31 00:00:00",
+        "data_atualizacao_str": "2015-03-31T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 30: DIREITO AMBIENTAL",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=30",
+        "data_atualizacao": "2015-03-18 00:00:00",
+        "data_atualizacao_str": "2015-03-18T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 29: APLICAÇÃO DA PENA - AGRAVANTES E ATENUANTES",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=29",
+        "data_atualizacao": "2015-03-04 00:00:00",
+        "data_atualizacao_str": "2015-03-04T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 28: IMPOSTO DE RENDA",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=28",
+        "data_atualizacao": "2015-02-18 00:00:00",
+        "data_atualizacao_str": "2015-02-18T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 26: APLICAÇÃO DA PENA",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=26",
+        "data_atualizacao": "2014-12-10 00:00:00",
+        "data_atualizacao_str": "2014-12-10T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 25: PROCESSO COLETIVO - III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=25",
+        "data_atualizacao": "2014-11-26 00:00:00",
+        "data_atualizacao_str": "2014-11-26T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 24: PROPRIEDADE INDUSTRIAL",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=24",
+        "data_atualizacao": "2014-11-12 00:00:00",
+        "data_atualizacao_str": "2014-11-12T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 2: PLANOS DE SAÚDE - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=2",
+        "data_atualizacao": "2014-11-01 00:00:00",
+        "data_atualizacao_str": "2014-11-01T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 23: CONCURSO FORMAL",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=23",
+        "data_atualizacao": "2014-10-29 00:00:00",
+        "data_atualizacao_str": "2014-10-29T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 22: PROCESSO COLETIVO II - LEGITIMIDADE",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=22",
+        "data_atualizacao": "2014-10-15 00:00:00",
+        "data_atualizacao_str": "2014-10-15T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 21: AÇÃO MONITÓRIA - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=21",
+        "data_atualizacao": "2014-10-01 00:00:00",
+        "data_atualizacao_str": "2014-10-01T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 20: CRIME CONTINUADO - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=20",
+        "data_atualizacao": "2014-09-17 00:00:00",
+        "data_atualizacao_str": "2014-09-17T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 19: PROCESSO COLETIVO I - LEGITIMIDADE",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=19",
+        "data_atualizacao": "2014-09-03 00:00:00",
+        "data_atualizacao_str": "2014-09-03T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 18: AÇÃO MONITÓRIA - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=18",
+        "data_atualizacao": "2014-08-20 00:00:00",
+        "data_atualizacao_str": "2014-08-20T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 17: CRIME CONTINUADO - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=17",
+        "data_atualizacao": "2014-08-06 00:00:00",
+        "data_atualizacao_str": "2014-08-06T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 16: BUSCA E APREENSÃO - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=16",
+        "data_atualizacao": "2014-07-01 00:00:00",
+        "data_atualizacao_str": "2014-07-01T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 15: CONCURSOS PÚBLICOS - III",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=15",
+        "data_atualizacao": "2014-06-17 00:00:00",
+        "data_atualizacao_str": "2014-06-17T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 14: BUSCA E APREENSÃO - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=14",
+        "data_atualizacao": "2014-06-04 00:00:00",
+        "data_atualizacao_str": "2014-06-04T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 13: CORTE NO FORNECIMENTO DE SERVIÇOS PÚBLICOS ESSENCIAIS",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=13",
+        "data_atualizacao": "2014-05-21 00:00:00",
+        "data_atualizacao_str": "2014-05-21T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 12: REMIÇÃO DA PENA",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=12",
+        "data_atualizacao": "2014-05-14 00:00:00",
+        "data_atualizacao_str": "2014-05-14T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 11: CONCURSOS PÚBLICOS - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=11",
+        "data_atualizacao": "2014-04-30 00:00:00",
+        "data_atualizacao_str": "2014-04-30T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 10: CONTRATOS DE SEGURO",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=10",
+        "data_atualizacao": "2014-04-02 00:00:00",
+        "data_atualizacao_str": "2014-04-02T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 9: CONCURSOS PÚBLICOS - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=9",
+        "data_atualizacao": "2014-03-19 00:00:00",
+        "data_atualizacao_str": "2014-03-19T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 8: SEGURO OBRIGATÓRIO (DPVAT) - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=8",
+        "data_atualizacao": "2014-03-06 00:00:00",
+        "data_atualizacao_str": "2014-03-06T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 7: FALTA GRAVE EM EXECUÇÃO PENAL",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=7",
+        "data_atualizacao": "2014-02-19 00:00:00",
+        "data_atualizacao_str": "2014-02-19T00:00:00-03:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 6: SEGURO OBRIGATÓRIO (DPVAT) - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=6",
+        "data_atualizacao": "2014-02-05 00:00:00",
+        "data_atualizacao_str": "2014-02-05T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 27: ESTATUTO DA CRIANÇA E DO ADOLESCENTE - GUARDA E ADOÇÃO",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=27",
+        "data_atualizacao": "2014-02-04 00:00:00",
+        "data_atualizacao_str": "2014-02-04T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 5: PROCESSO ADMINISTRATIVO DISCIPLINAR - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=5",
+        "data_atualizacao": "2013-12-11 00:00:00",
+        "data_atualizacao_str": "2013-12-11T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 4: PLANOS DE SAÚDE - II",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=4",
+        "data_atualizacao": "2013-11-27 00:00:00",
+        "data_atualizacao_str": "2013-11-27T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 3: SUSPENSÃO CONDICIONAL DO PROCESSO",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=3",
+        "data_atualizacao": "2013-11-13 00:00:00",
+        "data_atualizacao_str": "2013-11-13T00:00:00-02:00"
+    },
+    {
+        "id_pesquisa": null,
+        "titulo": "EDIÇÃO N. 1: PROCESSO ADMINISTRATIVO DISCIPLINAR - I",
+        "area_direito": null,
+        "sub_area": null,
+        "link_acordaos": null,
+        "link_toc": "https://scon.stj.jus.br/SCON/jt/?action=file&num=1",
+        "data_atualizacao": "2013-11-13 00:00:00",
+        "data_atualizacao_str": "2013-11-13T00:00:00-02:00"
     }
 ]
